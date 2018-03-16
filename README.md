@@ -8,5 +8,5 @@ This document is my notes of algorithms exercises on [LintCode](http://lintcode.
 |:----------:|:-------:|:-----:|:------:|
 |198|[Permutation Index II](https://github.com/mogolola/lintcode/blob/master/python/198_Permutation_Index_II.py)|Medium|hash table|
 |1|[A+B Problem](https://github.com/mogolola/lintcode/blob/master/python/1_A%2BB_Problem.py)|Easy|Complement, binary operation|
-
+|2|[Factorial trailing zero](https://github.com/mogolola/lintcode/blob/master/python/2_Trailing%20Zeros.py)|Easy|trick|
 
