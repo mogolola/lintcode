@@ -8,6 +8,7 @@ This document is my notes of algorithms exercises on [LintCode](http://lintcode.
 |:----------:|:-------:|:-----:|:------:|
 |1|[A+B Problem](https://github.com/mogolola/lintcode/blob/master/python/1_A%2BB_Problem.py)|Easy|Complement, binary operation|
 |2|[Factorial trailing zero](https://github.com/mogolola/lintcode/blob/master/python/2_Trailing%20Zeros.py)|Easy|trick|
+|55|[Compare Strings](https://github.com/mogolola/lintcode/blob/master/python/55_Compare_strings.py)|Easy|String|
 |197|[Permutation_Index](https://github.com/mogolola/lintcode/blob/master/python/197_Permutation_Index.py)|Easy|Permutation, factorial|
 |198|[Permutation Index II](https://github.com/mogolola/lintcode/blob/master/python/198_Permutation_Index_II.py)|Medium|hash table|
 
