@@ -7,6 +7,6 @@ This document is my notes of algorithms exercises on [LintCode](http://lintcode.
 | Problem id | Problem | Level | Labels |
 |:----------:|:-------:|:-----:|:------:|
 |198|[Permutation Index II](https://github.com/mogolola/lintcode/blob/master/python/198_Permutation_Index_II.py)|Medium|hash table|
-
+|1|[A+B Problem()]
 
 
