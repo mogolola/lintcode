@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fee91f8-76b8-4ebf-9669-a23074629ce4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/python/42_Maximum_Subarray_2.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
@@ -29,8 +30,18 @@
       <file leaf-file-name="41_Maximum_Subarray.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python/41_Maximum_Subarray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+            <state relative-caret-position="384">
+              <caret line="70" column="23" lean-forward="true" selection-start-line="62" selection-start-column="8" selection-end-line="70" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="42_Maximum_Subarray_2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python/42_Maximum_Subarray_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="902">
+              <caret line="41" column="54" lean-forward="false" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -100,6 +111,7 @@
         <option value="$PROJECT_DIR$/python/197_Permutation_Index.py" />
         <option value="$PROJECT_DIR$/python/41_Maximum_Subarray.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/python/42_Maximum_Subarray_2.py" />
       </list>
     </option>
   </component>
@@ -179,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.41_Maximum_Subarray">
+  <component name="RunManager" selected="Python.42_Maximum_Subarray_2">
     <configuration name="198_Permutation_Index_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -234,16 +246,36 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="3">
+    <configuration name="42_Maximum_Subarray_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lintcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/42_Maximum_Subarray_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.198_Permutation_Index_II" />
       <item index="1" class="java.lang.String" itemvalue="Python.2_Trailing Zeros" />
       <item index="2" class="java.lang.String" itemvalue="Python.41_Maximum_Subarray" />
+      <item index="3" class="java.lang.String" itemvalue="Python.42_Maximum_Subarray_2" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.41_Maximum_Subarray" />
-        <item index="1" class="java.lang.String" itemvalue="Python.2_Trailing Zeros" />
-        <item index="2" class="java.lang.String" itemvalue="Python.198_Permutation_Index_II" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.42_Maximum_Subarray_2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.41_Maximum_Subarray" />
+        <item index="2" class="java.lang.String" itemvalue="Python.2_Trailing Zeros" />
+        <item index="3" class="java.lang.String" itemvalue="Python.198_Permutation_Index_II" />
       </list>
     </recent_temporary>
   </component>
@@ -434,14 +466,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/41_Maximum_Subarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -450,6 +474,22 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/41_Maximum_Subarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="70" column="23" lean-forward="true" selection-start-line="62" selection-start-column="8" selection-end-line="70" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/42_Maximum_Subarray_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="54" lean-forward="false" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
+          <folding />
         </state>
       </provider>
     </entry>
