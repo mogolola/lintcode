@@ -8,6 +8,7 @@ This document is my notes of algorithms exercises on [LintCode](http://lintcode.
 |:----------:|:-------:|:-----:|:------:|
 |1|[A+B Problem](https://github.com/mogolola/lintcode/blob/master/python/1_A%2BB_Problem.py)|Easy|Complement, binary operation|
 |2|[Factorial trailing zero](https://github.com/mogolola/lintcode/blob/master/python/2_Trailing%20Zeros.py)|Easy|trick|
+|3|[Digit Count](https://github.com/mogolola/lintcode/blob/master/python/3_Digit_count.py)|Easy|string operaion|
 |41|[Maximum Subarray](https://github.com/mogolola/lintcode/blob/master/python/41_Maximum_Subarray.py)|Easy|Greedy, Dynamic programming|
 |42|[Maximum Subarray II](https://github.com/mogolola/lintcode/blob/master/python/42_Maximum_Subarray_2.py)|Medium|Dynamic programming, bisection|
 |55|[Compare Strings](https://github.com/mogolola/lintcode/blob/master/python/55_Compare_strings.py)|Easy|String|
