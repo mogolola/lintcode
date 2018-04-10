@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fee91f8-76b8-4ebf-9669-a23074629ce4" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/python/671_Rotate_words(tle).py" />
-      <change beforePath="$PROJECT_DIR$/.idea/lintcode.iml" afterPath="$PROJECT_DIR$/.idea/lintcode.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="17" column="114" lean-forward="true" selection-start-line="17" selection-start-column="114" selection-end-line="17" selection-end-column="114" />
+              <caret line="17" column="143" lean-forward="false" selection-start-line="17" selection-start-column="143" selection-end-line="17" selection-end-column="143" />
               <folding />
             </state>
           </provider>
@@ -694,7 +690,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="17" column="114" lean-forward="true" selection-start-line="17" selection-start-column="114" selection-end-line="17" selection-end-column="114" />
+          <caret line="17" column="143" lean-forward="false" selection-start-line="17" selection-start-column="143" selection-end-line="17" selection-end-column="143" />
           <folding />
         </state>
       </provider>
